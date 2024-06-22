@@ -1,10 +1,10 @@
 # Main Title
 main:
   header:
-    title : "Graysx Theme" # Title Text
-    description : "Aut Deleniti Solu Facilis Idlau imq Atque Ac Itaqu A Co Volup Nu Quaecu Nec Archite At." # Title Desc
+    title : "Melbourne Wide Renovations" # Title Text
+    description : "Experts in Renovations" # Title Desc
     button:
-      text: "Learn More" # Button Text
+      text: "Comming Soon" # Button Text
       url: "#about" # Button URL
 
 # About

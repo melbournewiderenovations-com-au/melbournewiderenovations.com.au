@@ -1,7 +1,7 @@
 baseURL = 'https://melbournewiderenovations.com.au/'
 languageCode = 'en-us'
 theme = 'graysx'
-title = 'Example Graysx Site'
+title = 'MelbourneWideRenovations * Site PoweredBy Bespokelink Ltd *'
 
 ## Site Settings
 [params]
@@ -9,9 +9,9 @@ logo = "assets/img/logo.webp"
 favicon = "assets/favicon.png"
 
 # Info
-address = "123 Arch B1W, GNU/Linux"
-email = "hello@graysx.com"
-phone = "123456"
+address = "Melbourne Australia"
+email = "info@melbournewiderenovations.com.au"
+phone = "0406 158 309"
 
 # Socials
 
