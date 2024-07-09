@@ -5,7 +5,7 @@ main:
     description : "Experts in Renovations" # Title Desc
     button:
       text: "Comming Soon" # Button Text
-      url: "#about" # Button URL
+      url: "tel:+0399237800" # Button URL
 
 # About
 about:
@@ -14,19 +14,59 @@ about:
   button:
     enable: true
     text: "Contact Us"
-    url: "#"
+    url: "#contact"
   image: "assets/img/ipad.png"
 
-projects:
+expertise:
   card1:
-    title: "Graysx"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/bg-masthead.jpg"
+    title: "Expert Bathroom Renovations"
+    text: "Welcome to Melbourne Wide Renovations, where we specialize in transforming your bathroom into a
+            beautiful, functional, and relaxing space. Whether you're looking to update an outdated design, add modern
+            features, or completely reimagine your bathroom, our team of experienced professionals is here to make 
+            your dream a reality. 
+            "
+    text2: "At Melbourne Wide Renovations, we understand that the bathroom is more than just a functional space; it's
+            a personal sanctuary where you start and end your day. Our commitment to quality craftsmanship, innovative design, and exceptional customer service sets us apart from the competition.
+          "     
+    text3: "Our Bathroom Renovation Process
+            We follow a systematic approach to ensure your bathroom renovation is seamless and efficient. Here’s what
+            you can expect:
+            Consultation and Planning: We start with an in-depth consultation to discuss your ideas, needs, and budget. Our designers will create a detailed plan, including layout, materials, and fixtures, for your approval. Design and Selection: Once the plan is finalized, we help you choose the perfect materials, colors, and
+            finishes to bring your vision to life. We provide samples and expert advice to ensure every detail is just
+            right. Demolition and Preparation: Our team carefully removes the old fixtures and prepares the space for
+            renovation. We take precautions to protect your home and minimize disruption during this phase. Construction and Installation: With the space prepared, our craftsmen begin the construction and
+            installation process. We handle everything from plumbing and electrical work to tiling, cabinetry, and
+            fixture installation. Finishing Touches: After the major work is completed, we focus on the finishing touches that make your
+            bathroom special. This includes painting, trim work, and installing accessories. Final Inspection and Handover: We conduct a thorough inspection to ensure everything meets our high
+            standards and your satisfaction. Once approved, we clean the area and present your newly renovated
+            bathroom, ready for you to enjoy."   
+    img: "assets/img/1.jpg" 
   card2:
-    title: "Graysx"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/demo-image-01.jpg"
+    title: "Expert Wall and Floor Tiling Services"
+    text: "Welcome to Melbourne Wide Renovations, your go-to destination for high-quality wall and floor tiling
+            services. Whether you're looking to revamp your kitchen, bathroom, living room, or any other area in your
+            home or commercial space, our team of skilled tiling professionals is here to deliver exceptional results that
+            enhance the beauty and functionality of your space."
+    img: "assets/img/2.jpg"
   card3:
-    title: "Graysx"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
-    img: "assets/img/demo-image-02.jpg"
+    title: "Electrical and Plumbing Services"
+    text: "Welcome to Melbourne Wide Renovations, where we specialize in providing top-tier electrical and
+            plumbing services for residential and commercial properties. Our commitment to excellence, safety, and
+            customer satisfaction sets us apart as a leading service provider in the industry. Whether you need routine
+            maintenance, emergency repairs, or major installations, our experienced professionals are here to ensure
+            your electrical and plumbing systems are functioning optimally."
+    img: "assets/img/3.jpg"
+  card4:
+    title: "Painting and Rendering Services"
+    text: "Welcome to Melbourne Wide Renovations, your trusted partner for top-quality painting and rendering
+            services. Our commitment to excellence, attention to detail, and customer satisfaction have made us a
+            preferred choice for homeowners and businesses alike. Whether you're looking to refresh your home's
+            interior, enhance your property's exterior, or undertake a complete transformation, our skilled professionals
+            are here to deliver stunning results that exceed your expectations."
+    img: "assets/img/4.jpg"
+  card5:
+    title: "Waterproofing Services"
+    text: "Welcome to Melbourne Wide Renovations, your trusted partner for professional waterproofing solutions. Protecting your property from water damage is crucial to maintaining its structural integrity and value. Our
+            comprehensive waterproofing services ensure that your home or business remains safe, dry, and free from
+            the damaging effects of moisture."
+    img: "assets/img/5.jpg"
