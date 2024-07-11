@@ -6,7 +6,7 @@ title = 'MelbourneWideRenovations * Site PoweredBy Bespokelink Ltd *'
 ## Site Settings
 [params]
 logo = "assets/img/logo.png"
-favicon = "assets/favicon3.png"
+favicon = "assets/newfavicon.PNG"
 
 # Info
 address = "Melbourne Australia"
@@ -16,7 +16,7 @@ location = "https://www.google.com/maps/place/Melbourne+VIC,+Australia/@-37.9696
 
 # Socials
 
-twitter = "#"
+instagram = "https://www.instagram.com/melbournewiderenovations?igsh=MXFjb2xjeWFhZHZ1aQ=="
 facebook = "https://www.facebook.com/share/SBCns4DQQPxzvtit/?mibextid=qi2Omg"
 github = "https://github.com/akatiggerx04/graysx-hugo"
 
@@ -39,7 +39,7 @@ sbtoken = "TOKEN_HERE"
 
   [[menu.main]]
   name = "Contact"
-  URL = "#signup"
+  URL = "#contact"
   weight = 3
 
 

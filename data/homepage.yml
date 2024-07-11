@@ -25,28 +25,129 @@ expertise:
             features, or completely reimagine your bathroom, our team of experienced professionals is here to make 
             your dream a reality. 
             "
+
+    subtext1: "Why Choose Us for Your Bathroom Renovation?"
+
     text2: "At Melbourne Wide Renovations, we understand that the bathroom is more than just a functional space; it's
-            a personal sanctuary where you start and end your day. Our commitment to quality craftsmanship, innovative design, and exceptional customer service sets us apart from the competition.
+            a personal sanctuary where you start and end your day. Our commitment to quality craftsmanship, innovative design, and exceptional customer service sets us apart from the competition. Here are a few
+            reasons to choose us for your bathroom renovation project:
           "     
-    text3: "Our Bathroom Renovation Process
-            We follow a systematic approach to ensure your bathroom renovation is seamless and efficient. Here’s what
-            you can expect:
-            Consultation and Planning: We start with an in-depth consultation to discuss your ideas, needs, and budget. Our designers will create a detailed plan, including layout, materials, and fixtures, for your approval. Design and Selection: Once the plan is finalized, we help you choose the perfect materials, colors, and
+
+    subtext2: "1. Experienced Professionals: Our team consists of skilled designers, craftsmen, and project managers with
+              years of experience in bathroom renovations. We bring our expertise and attention to detail to every project, ensuring the highest standards of quality."
+
+    subtext3: "2. Personalized Design: We believe that every bathroom should reflect the unique taste and lifestyle of its
+              owner. Our designers work closely with you to understand your vision and preferences, creating a
+              customized design plan that meets your needs and exceeds your expectations."
+
+    subtext4: "3. Quality Materials: We source only the best materials and fixtures to ensure durability and longevity. From
+              luxurious tiles and countertops to high-quality faucets and lighting, we use products that enhance the beauty
+              and functionality of your bathroom."
+
+    subtext5: "4. Comprehensive Services: Our services cover every aspect of bathroom renovation, from initial consultation
+              and design to demolition, construction, and final touches. We manage the entire process, so you can enjoy a
+              stress-free renovation experience."
+    subtext6: "5. Transparent Pricing: We provide detailed quotes and clear communication throughout the project, ensuring there are no surprises. Our goal is to deliver exceptional value while staying within your budget."
+
+    text3: "Our Bathroom Renovation Process"
+
+    subtext7: "We follow a systematic approach to ensure your bathroom renovation is seamless and efficient. Here’s what
+              you can expect:"
+            
+    text4: "1. Consultation and Planning: We start with an in-depth consultation to discuss your ideas, needs, and budget. Our designers will create a detailed plan, including layout, materials, and fixtures, for your approval." 
+            
+    text5: "2. Design and Selection: Once the plan is finalized, we help you choose the perfect materials, colors, and
             finishes to bring your vision to life. We provide samples and expert advice to ensure every detail is just
-            right. Demolition and Preparation: Our team carefully removes the old fixtures and prepares the space for
-            renovation. We take precautions to protect your home and minimize disruption during this phase. Construction and Installation: With the space prepared, our craftsmen begin the construction and
+            right." 
+            
+    text6: "3. Demolition and Preparation: Our team carefully removes the old fixtures and prepares the space for
+            renovation. We take precautions to protect your home and minimize disruption during this phase." 
+            
+    text7: "4. Construction and Installation: With the space prepared, our craftsmen begin the construction and
             installation process. We handle everything from plumbing and electrical work to tiling, cabinetry, and
-            fixture installation. Finishing Touches: After the major work is completed, we focus on the finishing touches that make your
-            bathroom special. This includes painting, trim work, and installing accessories. Final Inspection and Handover: We conduct a thorough inspection to ensure everything meets our high
+            fixture installation." 
+            
+    text8: "5. Finishing Touches: After the major work is completed, we focus on the finishing touches that make your
+            bathroom special. This includes painting, trim work, and installing accessories." 
+            
+    text9: "6. Final Inspection and Handover: We conduct a thorough inspection to ensure everything meets our high
             standards and your satisfaction. Once approved, we clean the area and present your newly renovated
             bathroom, ready for you to enjoy."   
+    
+    subtext8: "Contact Us"
+
+    subtext9: "Are you ready to transform your bathroom into a stunning, functional space? Contact Melbourne Wide
+              Renovations today to schedule your consultation. Let us help you create the bathroom of your dreams with
+              expert craftsmanship and personalized service. Your perfect bathroom awaits!"
     img: "assets/img/1.jpg" 
+    url: "/about/"
   card2:
     title: "Expert Wall and Floor Tiling Services"
     text: "Welcome to Melbourne Wide Renovations, your go-to destination for high-quality wall and floor tiling
             services. Whether you're looking to revamp your kitchen, bathroom, living room, or any other area in your
             home or commercial space, our team of skilled tiling professionals is here to deliver exceptional results that
             enhance the beauty and functionality of your space."
+
+    text2: "Our Tiling Services"     
+
+    text3: "1. Wall Tiling: Perfect for kitchens, bathrooms, and feature walls, our wall tiling services add elegance and
+            style to any room. We ensure precise alignment and seamless finishes for a polished look."   
+
+    text4: "2. Floor Tiling: Whether it’s for your home or business, our floor tiling services offer durability and aesthetic
+            appeal. We specialize in various flooring options, including ceramic, porcelain, natural stone, and more."        
+
+    text5: "3. Bathroom Tiling: Transform your bathroom into a luxurious retreat with our expert tiling services. From
+            shower enclosures and backsplashes to complete bathroom renovations, we create stunning and waterproof
+            tiling solutions."        
+
+    text6: "4. Kitchen Tiling: Enhance your kitchen’s functionality and beauty with our custom tiling solutions. We
+            provide tiling for countertops, backsplashes, and floors, ensuring a cohesive and stylish design"
+
+    text7: "5. Outdoor Tiling: Extend your living space outdoors with our durable and weather-resistant outdoor tiling
+            services. Ideal for patios, decks, and walkways, our tiles are designed to withstand the elements while
+            maintaining their beauty."   
+
+    text8: "Why Choose Us for Your Tiling Projects?"
+
+    text9: "At Melbourne Wide Renovations, we pride ourselves on our commitment to excellence, attention to detail, and customer satisfaction. Here’s why we’re the best choice for your wall and floor tiling needs:"             
+    
+    text10: "1. Experienced Tiling Experts: Our team comprises experienced and certified tiling professionals who bring
+            their expertise and precision to every project. We ensure that every tile is laid perfectly, resulting in a
+            flawless finish."             
+    
+    text11: "2. Wide Range of Tiles: We offer an extensive selection of tiles in various materials, colors, sizes, and finishes. Whether you prefer classic ceramic, elegant porcelain, luxurious marble, or trendy mosaic tiles, we have the
+            perfect options to match your style and needs."             
+    
+    text12: "3. Custom Design Solutions: We understand that each space is unique, and so are your design preferences. Our designers work closely with you to create custom tiling solutions that reflect your personal taste and
+            enhance your interior decor."             
+    
+    text13: "4. Quality and Durability: We use only the highest quality tiles and materials to ensure durability and
+            longevity. Our meticulous installation process guarantees that your tiles will withstand the test of time and
+            look beautiful for years to come."             
+    
+    text14: "5. Comprehensive Services: From initial consultation and design to preparation, installation, and finishing
+            touches, we offer a full range of tiling services. We manage every aspect of the project, so you can enjoy a
+            hassle-free experience and stunning results. "  
+
+    text15: "6. Affordable Pricing: We believe in providing top-notch services at competitive prices. Our transparent
+            pricing and detailed quotes ensure you get excellent value for your investment without any hidden costs."                   
+    
+    text16: "Our Process"
+
+    text17: "1. Consultation and Design: We begin with a detailed consultation to understand your vision, preferences, and budget. Our designers then create a tailored plan, including tile selection and layout."
+
+    text18: "2. Preparation: We carefully prepare the surfaces, ensuring they are clean, level, and ready for tiling. This
+            step is crucial for achieving a flawless finish and long-lasting results."
+
+    text19: "3. Installation: Our skilled tilers meticulously install the tiles, paying close attention to alignment, spacing, and adhesion. We use high-quality adhesives and grouts to ensure durability and strength."
+
+    text20: "4. Finishing Touches: We complete the project with precise grouting, sealing, and cleaning, leaving you with a beautiful, polished finish."
+
+    text21: "5. Inspection and Handover: We conduct a thorough inspection to ensure everything meets our high standards and your satisfaction. Once approved, we clean the area and present your newly tiled space, ready for you to enjoy."
+
+    text22: "Contact Us"
+
+    text23: "Ready to transform your space with stunning wall and floor tiling? Contact Melbourne Wide Renovations today to schedule your consultation. Let us help you create a beautiful and functional environment with our expert tiling services. Your dream space is just a call away!"
     img: "assets/img/2.jpg"
   card3:
     title: "Electrical and Plumbing Services"
@@ -55,6 +156,67 @@ expertise:
             customer satisfaction sets us apart as a leading service provider in the industry. Whether you need routine
             maintenance, emergency repairs, or major installations, our experienced professionals are here to ensure
             your electrical and plumbing systems are functioning optimally."
+    
+    text2: "Our Electrical Services:"
+
+    text3: "1. Electrical Installations: Whether you’re building a new property or upgrading an existing one, our
+              electricians can handle all your installation needs. From wiring and lighting to electrical panels and circuit
+              breakers, we ensure safe and efficient installations."
+    
+    text15: "2. Electrical Repairs: We offer prompt and reliable repair services for all types of electrical issues, including faulty wiring, power outages, and malfunctioning appliances. Our goal is to restore your electrical systems to optimal working condition quickly and safely."
+
+    text16: "3. Lighting Solutions: Enhance your space with our professional lighting solutions. We provide design and installation services for indoor and outdoor lighting, including energy-efficient LED lighting options."
+
+    text17: "4. Safety Inspections: Regular electrical inspections are crucial for maintaining the safety of your property. Our comprehensive inspections identify potential hazards and ensure your systems comply with current safety standards."
+    
+    text4: "5. Smart Home Integration: Transform your home with smart technology. We install and integrate smart
+            home systems, including lighting controls, security systems, and home automation, for enhanced
+            convenience and security."
+    
+    text5: "Our Plumbing Services:"
+    
+    text6: "1. Plumbing Installations: From new constructions to renovations, our plumbers are equipped to handle all
+            your installation needs. We install pipes, fixtures, water heaters, and more, ensuring reliable and efficient
+            plumbing systems."
+    
+    text18: "2. Plumbing Repairs: Leaks, clogs, and broken pipes can cause significant damage if not addressed promptly. Our experienced plumbers provide fast and effective repair services to resolve any plumbing issues and prevent further damage."
+
+    text19: "3. Drain Cleaning: Clogged drains can disrupt your daily routine. We offer professional drain cleaning services to remove blockages and restore proper drainage, using advanced techniques and equipment."
+
+    text7: "4. Water Heater Services: Ensure a steady supply of hot water with our water heater installation, repair, and
+            maintenance services. We work with all types of water heaters, including tankless and traditional models."
+    
+    text20: "5. Emergency Services: Plumbing emergencies can happen at any time. Our 24/7 emergency services ensure that you get the help you need when you need it, minimizing damage and inconvenience."
+
+    text8: "Why Choose Us?"
+
+    text9: "1. Skilled Professionals: Our team consists of licensed and highly trained electricians and plumbers who have extensive experience in handling a wide range of projects. Their expertise ensures that every job is done right the first time, saving you time and money."
+
+    text10: "2. Comprehensive Services: From minor repairs to complete system installations, we offer a full spectrum of electrical and plumbing services. No job is too big or too small for our dedicated team."
+
+    text11: "3. Safety First: We prioritize safety in every project we undertake. Our technicians adhere to the highest safety standards and regulations to protect you, your property, and our team."
+
+    text12: "4. Advanced Technology: We utilize the latest tools and technologies to diagnose, repair, and install electrical and plumbing systems. This allows us to provide efficient and effective solutions tailored to your specific needs."
+
+    text13: "5. Customer Satisfaction: Our commitment to customer satisfaction is unwavering. We work closely with our clients to understand their needs and deliver personalized services that exceed expectations."
+
+    text14: "6. Transparent Pricing: We believe in fair and transparent pricing. Our detailed quotes ensure you understand the costs involved without any hidden fees or surprises."
+    
+    text21: "Our Process"
+    
+    text22: "1. Consultation: We start with a thorough consultation to understand your needs and assess your property. This allows us to provide accurate quotes and tailor our services to your specific requirements."
+    
+    text23: "2. Planning: For larger projects, we develop a detailed plan outlining the scope of work, timeline, and costs involved. We keep you informed every step of the way to ensure transparency and satisfaction."
+    
+    text24: "3. Execution: Our skilled technicians carry out the work efficiently and safely, using high-quality materials and the latest techniques. We adhere to all safety standards and regulations to ensure the best results."
+    
+    text25: "4. Inspection and Testing: After completing the work, we conduct thorough inspections and testing to ensure everything is functioning correctly. We address any issues promptly to guarantee your satisfaction."
+    
+    text26: "5. Follow-Up: We believe in building long-term relationships with our clients. After the project is completed, we provide follow-up support and maintenance services to keep your systems running smoothly."
+    
+    text27: "Contact Us"
+
+    text28: "For reliable and professional electrical and plumbing services, look no further than Melbourne Wide Renovations. Contact us today to schedule a consultation or to learn more about how we can help with your next project. Your safety and satisfaction are our top priorities."
     img: "assets/img/3.jpg"
   card4:
     title: "Painting and Rendering Services"
@@ -63,10 +225,115 @@ expertise:
             preferred choice for homeowners and businesses alike. Whether you're looking to refresh your home's
             interior, enhance your property's exterior, or undertake a complete transformation, our skilled professionals
             are here to deliver stunning results that exceed your expectations."
+
+    text8: "Why Choose Our Painting and Rendering Services?"
+
+    text9: "1. Experienced Professionals: Our team consists of highly trained painters and renderers with years of experience in the industry. Their expertise ensures precision and perfection in every project, no matter the size or complexity."
+
+    text10: "2. High-Quality Materials: We use only the best materials and products to ensure durability, longevity, and a flawless finish. Our commitment to quality means your property will look beautiful and stand the test of time."
+
+    text11: "3. Comprehensive Services: From initial consultation to final touches, we offer a full range of painting and rendering services. Our comprehensive approach ensures that all aspects of your project are handled with care and expertise."
+
+    text12: "4. Customer-Centric Approach: Your satisfaction is our top priority. We work closely with you to understand your vision and provide personalized solutions that meet your specific needs and preferences."
+    
+    text13: "5. Competitive Pricing: We believe in fair and transparent pricing. Our detailed quotes provide a clear breakdown of costs, ensuring no hidden fees or surprises."
+
+    text2: "Our Painting Services"
+
+    text3: "1. Interior Painting: Transform your living spaces with our professional interior painting services. We handle
+            everything from walls and ceilings to trim and doors, using high-quality paints that provide a beautiful, long-lasting finish. Our attention to detail ensures clean lines, smooth surfaces, and vibrant colors."  
+    
+    text14: "2. Exterior Painting: Enhance your property's curb appeal with our expert exterior painting services. We prepare and paint all types of exterior surfaces, including wood, stucco, brick, and more. Our durable, weather-resistant paints protect your home from the elements while giving it a fresh, updated look."
+
+    text15: "3. Commercial Painting: Create a professional and inviting atmosphere for your business with our commercial painting services. We work efficiently to minimize disruption to your operations, delivering high-quality results on time and within budget."
+
+    text4: "4. Specialty Finishes: Add a unique touch to your interiors with our specialty finishes, including faux painting, textured walls, and decorative accents. Our skilled painters can create custom looks that reflect your
+            personal style and enhance your space"  
+    
+    text16: "5. Preparation and Repair: Proper preparation is key to a flawless finish. We provide comprehensive preparation services, including surface cleaning, sanding, priming, and repairs. Whether you need to fix cracks, holes, or damaged surfaces, our team ensures a smooth, even base for painting."
+
+    text5: "Our Rendering Services"  
+    
+    text6: "1. Cement Rendering: Achieve a classic, durable finish with our cement rendering services. Ideal for both
+            interior and exterior surfaces, cement rendering provides a strong, weather-resistant layer that enhances the
+            appearance and integrity of your property."  
+
+    text17: "2. Acrylic Rendering: For a flexible, long-lasting finish, consider our acrylic rendering services. Acrylic render is suitable for various surfaces, including brick, concrete, and fiber cement, offering superior adhesion and crack resistance."
+
+    text18: "3. Textured Finishes: Add depth and character to your walls with our textured rendering services. We offer a variety of textures and finishes, from smooth and polished to rough and rustic, allowing you to create a custom look that complements your design vision."
+    
+    text7: "4. Colored Rendering: Incorporate color directly into your render for a seamless, vibrant finish. Our colored
+            rendering services offer a wide range of hues and tones, eliminating the need for additional painting and
+            providing a consistent, fade-resistant appearance."  
+
+    text19: "5. Repair and Maintenance: Keep your rendered surfaces looking their best with our repair and maintenance services. We address issues such as cracks, chips, and weathering, restoring the integrity and appearance of your render."
+
+    text20: "Our Process"
+
+    text21: "1. Consultation: We start with a thorough consultation to understand your needs, preferences, and budget. This allows us to provide accurate quotes and tailored solutions that align with your vision."
+
+    text22: "2. Planning: We develop a detailed plan outlining the scope of work, timeline, and materials required. Clear communication ensures you are informed and comfortable with every step of the process."
+
+    text23: "3. Execution: Our skilled professionals carry out the work efficiently and meticulously, adhering to the highest standards of quality and safety. We ensure minimal disruption to your daily life and property."
+
+    text24: "4. Inspection and Touch-Ups: After completing the project, we conduct a thorough inspection to ensure everything meets our high standards. Any necessary touch-ups are performed to achieve a flawless finish."
+
+    text25: "5. Final Walkthrough: We conduct a final walkthrough with you to ensure your complete satisfaction. Your feedback is important to us, and we address any concerns promptly."
+
+    text26: "Contact Us"
+
+    text27: "For exceptional painting and rendering services that elevate the beauty and value of your property, trust Melbourne Wide Renovations. Contact us today to schedule a consultation or to learn more about how we.."
     img: "assets/img/4.jpg"
   card5:
     title: "Waterproofing Services"
     text: "Welcome to Melbourne Wide Renovations, your trusted partner for professional waterproofing solutions. Protecting your property from water damage is crucial to maintaining its structural integrity and value. Our
             comprehensive waterproofing services ensure that your home or business remains safe, dry, and free from
             the damaging effects of moisture."
+
+    text7: "Why Choose Our Waterproofing Services?"
+
+    text8: "1. Experienced Professionals: Our team comprises highly trained waterproofing specialists with years of experience in the industry. Their expertise ensures that every project is executed with precision and excellence."
+
+    text9: "2. High-Quality Materials: We use only the best materials and products available to ensure durability and long-lasting protection. Our commitment to quality means your property will be safeguarded against water damage for years to come."
+
+    text10: "3. Comprehensive Solutions: From initial inspection to final application, we offer a full range of waterproofing services tailored to meet your specific needs. Our holistic approach guarantees that all potential water infiltration points are addressed."
+
+    text11: "4. Customer Satisfaction: Your satisfaction is our top priority. We work closely with you to understand your requirements and provide customized solutions that exceed your expectations."
+
+    text12: "5. Competitive Pricing: We believe in fair and transparent pricing. Our detailed quotes provide a clear breakdown of costs, ensuring no hidden fees or surprises."
+
+    text2: "Our Waterproofing Services"        
+    text3: "1. Basement Waterproofing: Basements are particularly vulnerable to water infiltration due to their location
+            below ground level. Our basement waterproofing solutions include interior and exterior systems designed to
+            keep your basement dry and prevent issues like mold, mildew, and structural damage."        
+    
+    text13: "2. Bathroom Waterproofing: Bathrooms are high-moisture areas that require effective waterproofing to prevent leaks and water damage. We provide comprehensive bathroom waterproofing services, including sealing floors, walls, and shower areas to ensure complete protection."
+   
+    text4: "3. Roof Waterproofing: Roofs are your property’s first line of defense against the elements. Our roof
+            waterproofing services include the application of high-quality membranes and coatings that provide an
+            impermeable barrier against rain, snow, and other weather."        
+    text5: "5. Foundation Waterproofing: Protecting your foundation from water damage is crucial to maintaining the
+            stability of your property. Our foundation waterproofing services include exterior excavation and the
+            application of waterproof membranes and sealants to keep your foundation dry and secure."        
+    text6: "4. Balcony and Terrace Waterproofing: Balconies and terraces are exposed to the elements and can suffer
+            from water damage if not properly protected. Our waterproofing solutions for these areas ensure that water
+            does not seep into the structure, preventing damage and extending their lifespan."   
+
+    text14: "6. Crawl Space Waterproofing: Crawl spaces can become damp and moldy if not properly waterproofed. We offer crawl space encapsulation and waterproofing services to prevent moisture buildup and protect your property’s structural integrity."
+
+    text15: "Our Process"
+
+    text16: "1. Inspection and Assessment: We start with a thorough inspection of your property to identify potential problem areas and assess the extent of any existing water damage. This allows us to develop a customized waterproofing plan tailored to your specific needs."
+
+    text17: "2. Planning and Preparation: Based on our assessment, we create a detailed plan outlining the scope of work, timeline, and materials required. Clear communication ensures you are informed and comfortable with every step of the process."
+
+    text18: "3. Implementation: Our skilled professionals carry out the waterproofing work efficiently and meticulously, adhering to the highest standards of quality and safety. We ensure minimal disruption to your daily life and property."
+
+    text19: "4. Inspection and Testing: After completing the waterproofing application, we conduct thorough inspections and testing to ensure the effectiveness of the solution. Any necessary adjustments are made to achieve optimal results."
+
+    text20: "5. Maintenance and Support: We provide ongoing maintenance and support to ensure your waterproofing system continues to perform effectively. Regular inspections and prompt repairs keep your property protected from water damage."
+
+    text21: "Contact Us"
+
+    text22: "For reliable and effective waterproofing services that protect your property from water damage, trust Melbourne Wide Renovations. Contact us today to schedule a consultation or to learn more about how we can safeguard your home or business. Your peace of mind is just a call away."           
     img: "assets/img/5.jpg"
