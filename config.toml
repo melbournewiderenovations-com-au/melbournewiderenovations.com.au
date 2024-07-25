@@ -5,8 +5,8 @@ title = 'MelbourneWideRenovations * Site PoweredBy Bespokelink Ltd *'
 
 ## Site Settings
 [params]
-logo = "assets/img/logo.png"
-favicon = "assets/newfavicon.PNG"
+logo = "assets/img/white_transparent_logo.png"
+favicon = "assets/favicongreen.png"
 
 # Info
 address = "Melbourne Australia"
