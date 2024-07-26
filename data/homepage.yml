@@ -4,13 +4,13 @@ main:
     title : "Melbourne Renovations" # Title Text
     description : "Experts in Renovations" # Title Desc
     button:
-      text: "Comming Soon" # Button Text
+      text: "Reach Us" # Button Text
       url: "tel:+0399237800" # Button URL
 
 # About
 about:
   title: "About us"
-  desc: "We Specialise In Bathroom Renovations, Wall And Floor Tiling, Waterproofing, Electrical, Plumbing,Painting,Rendering,And Much Much More, We Are Fully Qualified And Licensed"
+  desc: "We Specialise In Bathroom Renovations, Wall And Floor Tiling, Waterproofing, Electrical, Plumbing,Painting,Rendering,And Much Much More, We Are Fully Qualified And Licensed."
   button:
     enable: true
     text: "Contact Us"
